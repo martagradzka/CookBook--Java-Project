@@ -1,0 +1,4 @@
+Program do budowania bazy przepisów kuchennych. Obiektowa reprezentacja składników poszczególnych potraw, 
+ich wystąpień w konkretnych przepisach oraz samych przepisów. Edytor przepisów pracujący w tekstowej konsoli systemu. 
+Opcja wyszukiwania przepisów po nazwie oraz na bazie listy posiadanych składników. 
+Tworzenie kategorii przepisów i ich obiektowa reprezentacja.
